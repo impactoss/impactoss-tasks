@@ -1,5 +1,5 @@
 # IMPACT OSS tasks
-_Tracking global tasks and budget allocation_
+_Tracking tasks and budget allocation_
 
 An issue is created for each task for that funding is required or desired https://github.com/impactoss/impactoss-tasks/issues
 
