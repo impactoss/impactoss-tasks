@@ -10,6 +10,7 @@ __The labels for the progress stages are__
 1. `Idea`: all new tasks will be initially considered as an idea. These can be rough ideas without a detailed description
 2. `Specification`: the task has been sufficiently specified so that providers can submit proposals. This may or may not include indications of expected budget and timeline
 3. `Proposals`: at least one proposal incl estimated cost and indicative timelines has been submitted
+4. `In progress - pending acceptance`: the provider has started to work on the task as proposed without explicit prior acceptance of the proposal.
 4. `Accepted`: a proposal has been approved in principal but may not yet be (fully) funded
 5. `In progress`: the provider has started working on the (approved) task
 6. `Review`: the task has been marked as completed by the provider and is being reviewed 
